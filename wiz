@@ -1,0 +1,3 @@
+ignore:
+  global_paths:
+    /node_modules/**/*: {}
